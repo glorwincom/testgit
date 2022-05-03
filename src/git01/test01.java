@@ -6,5 +6,6 @@ public class test01 {
         int a=4;
         System.out.println(a);
         System.out.println(a*a);
+        System.out.println("hello git111");
     }
 }
